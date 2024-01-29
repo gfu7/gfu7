@@ -26,3 +26,6 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 </p>
+<p align="center">
+  Power By: <a href="https://githubprofile.com/" title="GitHub Profile Generator | Create an awesome GitHub profile in minutes" alt="GitHub Profile Generator | Create an awesome GitHub profile in minutes">GitHub<span style='color: #3167e3;'>Profile</span>Generate</a>
+</h3>
